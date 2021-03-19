@@ -1,2 +1,2 @@
 # blog
-Blog para Platzi
+Blog for Platzi course
